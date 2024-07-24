@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Matthew C. Middleton, a Computer Science student at Georgia Southern University, expected to graduate in May 2025. I have a passion for software development, machine learning, and creating impactful projects. Below, you'll find more about my education, skills, projects, and experience.
+I'm Matthew, a Computer Science student at Georgia Southern University, expected to graduate in May 2025. I have a passion for software development, machine learning, and creating impactful projects. Below, you'll find more about my education, skills, projects, and experience.
 
 ## Connect with Me
 - Email: me@matt-middleton.com
