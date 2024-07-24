@@ -36,7 +36,7 @@ I'm Matthew C. Middleton, a Computer Science student at Georgia Southern Univers
 
 ## Relevant Experience
 
-### Social Strategy1, Addison, Texas (May 2024 – Present)
+### Social Strategy1, Dallas, Texas (May 2024 – Present)
 **Intern**
 - Work with pre-designed WordPress themes to customize clients’ websites.
 - Assist with on-page Search Engine Optimization (SEO) by optimizing titles, meta descriptions, and image alt tags.
