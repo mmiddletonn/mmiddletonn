@@ -4,7 +4,6 @@ I'm Matthew, a Computer Science student at Georgia Southern University, expected
 
 ## Connect with Me
 - Email: me@[matt-middleton.com](matt-middleton.com)
-- [GitHub](https://github.com/mmiddletonn)
 - [LinkedIn](https://linkedin.com/in/mmiddletonn)
 
 ## Education
