@@ -21,7 +21,7 @@ I'm Matthew, a Computer Science student at Georgia Southern University, expected
 
 ### Mixed Reality AI Application (Jan 2024 – Present)
 - Converts ARPlanes to navigable Navmesh components, creating a seamless experience of a virtual assistant navigating a physical space.
-- Personalized 3D model responds to verbal input, responding in under 3 seconds per query.
+- 3D Character model responds to verbal input in under 3 seconds per query.
 - Integrates with the backend to store conversations and memories, allowing for future expansion into alternate modalities.
 - **Technologies**: Unity, C#, Meta Voice SDK, Google Gemini API, Google Firebase.
 
