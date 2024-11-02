@@ -11,4 +11,4 @@ I'm Matthew, a Computer Science student at Georgia Southern University, expected
 
 ## Technical Skills
 
-**Languages & Tools**: Java, C#, Python, JavaScript, HTML/CSS, Node.js, Android Studio, Unity, WordPress, JUnit, Git, Linux, GCP
+**Languages & Tools**: Java, C#, C++, JavaScript, HTML/CSS, Node.js, Python, Android Studio, Unity, WordPress, JUnit, Git, Linux, GCP
